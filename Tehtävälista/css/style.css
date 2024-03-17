@@ -1,0 +1,23 @@
+body{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input {
+margin-bottom: 18px;
+}
+
+span{
+    margin-left: 18px;
+    color:chartreuse;
+}
+
+table{
+    width: 40%;
+}
+tr:nth-child(even){
+    background-color: coral;
+}
+
+td{
+    padding: 5px;
+}
